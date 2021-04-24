@@ -1,0 +1,14 @@
+{
+  "name": "rest-api-for-nativeandroid",
+  "version": "1.0.0",
+  "description": "Rest Api for Native for Android  get Request",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ulvi Nasirov",
+  "license": "(ISC)",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
